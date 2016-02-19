@@ -4,6 +4,9 @@
 .project
 
 .Python
+bin/
+local/
+include/
 env/
 build/
 develop-eggs/
